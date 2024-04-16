@@ -1,0 +1,22 @@
+{
+  "name": "berserk-app-tea",
+  "version": "1.0.0",
+  "description": "Testnet-berserk-app-tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasuketech/berserk-app-tea.git"
+  },
+  "dependencies": {
+    "sasuketech-tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasuketech/berserk-app-tea/issues"
+  },
+  "homepage": "https://github.com/sasuketech/berserk-app-tea#readme"
+}
